@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm RaphaeleL! 👋
+
+My name is Raphaele Salvatore Licciardo and I'm a Software Developer from Germany. 
 
 <!--
 **RaphaeleL/RaphaeleL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
