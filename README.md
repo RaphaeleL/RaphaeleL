@@ -7,4 +7,4 @@
 
 - 💬 Ask me **everything**
 
-- ⚡ Fun fact: **Karate Black belt**
+- ⚡ Fun fact: **Mixed Material Artist**
