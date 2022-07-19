@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **Chess in different programming languages**
 
-- 🧠 I’m learning **more about Machine Learning and Artificial Intelligence**
+- 🧠 I’m learning more about **Compilers**
 
 - 💬 Ask me **everything**
 
